@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Accounts API"
   contact-details:
     name: "Joao Vitor"
-    email: "{cypher}b24b4feedb302c77a24acb57b818edbee77f7d083d7f892b6c45f924abd5240cdfb37bea6b77c77ccf32e526c20ef2e1"
+    email: "{cipher}b24b4feedb302c77a24acb57b818edbee77f7d083d7f892b6c45f924abd5240cdfb37bea6b77c77ccf32e526c20ef2e1"
   on-call-support:
     - (123) 456-7890
     - (098) 765-4321
