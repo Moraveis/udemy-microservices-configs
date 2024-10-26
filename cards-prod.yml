@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "PROD >> Welcome to Cards API"
+  message: "PROD >> Welcome to Cards production API"
   contact-details:
     name: "Joao Vitor"
     email: "test@test.com"
